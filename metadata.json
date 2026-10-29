@@ -1,0 +1,6 @@
+{
+  "name": "PowerBass EQ - Pro Audio Equalizer & Visualizer",
+  "description": "Pro-grade offline audio equalizer with multi-band parametric EQ, bass boost, spatial reverb, low-latency DSP engine, battery saver, and vibrant beat-reactive neon wave visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
